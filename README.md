@@ -2,6 +2,10 @@
 
 This is a file explorer like File Explorer in Windows.
 
+# Tutorial(튜토리얼)
+
+[C# Console File Explorer Tutorial Playlist - JkhTV](https://www.youtube.com/playlist?list=PLG6918Ng_f9unH7tJzbXt6frxT_aFsl1k)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/@NewLand2019-JkhTV)
